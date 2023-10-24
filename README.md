@@ -1,1 +1,1 @@
-# geoh328_lab2
+# geog328_lab2
